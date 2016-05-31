@@ -1,0 +1,33 @@
+{
+  "name": "ga-cohort",
+  "version": "1.0.0",
+  "description": "Course website for classes taught at General Assembly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evblurbs/ga-cohort.git"
+  },
+  "author": "Evan Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evblurbs/ga-cohort/issues"
+  },
+  "homepage": "https://github.com/evblurbs/ga-cohort#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.4.1",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-eslint": "^6.0.4",
+    "babel-loader": "^6.2.4",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
